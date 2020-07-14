@@ -1,0 +1,24 @@
+{
+    "name": "santhosh/laravelspeak",
+    "description": "A Laravel Package will help in conversion of text to speech",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Santhosh JS",
+            "email": "santoshashgowda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Laravelspeak\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laravelspeak\\Commands\\ArtisanJokeServiceProvider"
+            ]
+        }
+    }
+}
