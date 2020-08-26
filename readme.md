@@ -1,6 +1,1 @@
-# Laravel Speak
-
-A Laravel package that converts text to speech.
-
-### status
-Under Construction
+## for learing laravel package structure -- ignore
